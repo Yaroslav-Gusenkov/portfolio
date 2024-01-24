@@ -1,0 +1,40 @@
+.cont{
+    width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+nav{
+    width: 200px;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+}
+ul li a, .gree{
+    color: #747474;
+}
+.logo{
+    color: #165aad;
+}
+.contener{
+    align-items: center;
+}
+main{
+    display: flex;
+}
+.conten{
+    display: flex;
+}
+.cnopone{
+    margin: 10px;
+    border-radius: 2px;
+    border: #165aad;
+}
